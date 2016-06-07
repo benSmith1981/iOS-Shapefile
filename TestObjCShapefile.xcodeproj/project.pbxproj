@@ -30,6 +30,58 @@
 		37AB23A516D7D48E00A113D0 /* planS01188_8pct.shx in Resources */ = {isa = PBXBuildFile; fileRef = 37AB23A016D7D48E00A113D0 /* planS01188_8pct.shx */; };
 		37EC6E73125AA318009B360D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37EC6E72125AA318009B360D /* CoreLocation.framework */; };
 		37EC6E77125AA322009B360D /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37EC6E76125AA322009B360D /* MapKit.framework */; };
+		BEDF76A71D06C94B00A052BD /* WONINGWAARDE_2002_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76731D06C94B00A052BD /* WONINGWAARDE_2002_region.dbf */; };
+		BEDF76A81D06C94B00A052BD /* WONINGWAARDE_2002_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76741D06C94B00A052BD /* WONINGWAARDE_2002_region.prj */; };
+		BEDF76A91D06C94B00A052BD /* WONINGWAARDE_2002_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76751D06C94B00A052BD /* WONINGWAARDE_2002_region.shp */; };
+		BEDF76AA1D06C94B00A052BD /* WONINGWAARDE_2002_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76761D06C94B00A052BD /* WONINGWAARDE_2002_region.shx */; };
+		BEDF76AB1D06C94B00A052BD /* WONINGWAARDE_2003_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76771D06C94B00A052BD /* WONINGWAARDE_2003_region.dbf */; };
+		BEDF76AC1D06C94B00A052BD /* WONINGWAARDE_2003_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76781D06C94B00A052BD /* WONINGWAARDE_2003_region.prj */; };
+		BEDF76AD1D06C94B00A052BD /* WONINGWAARDE_2003_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76791D06C94B00A052BD /* WONINGWAARDE_2003_region.shp */; };
+		BEDF76AE1D06C94B00A052BD /* WONINGWAARDE_2003_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF767A1D06C94B00A052BD /* WONINGWAARDE_2003_region.shx */; };
+		BEDF76AF1D06C94B00A052BD /* WONINGWAARDE_2004_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF767B1D06C94B00A052BD /* WONINGWAARDE_2004_region.dbf */; };
+		BEDF76B01D06C94B00A052BD /* WONINGWAARDE_2004_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF767C1D06C94B00A052BD /* WONINGWAARDE_2004_region.prj */; };
+		BEDF76B11D06C94B00A052BD /* WONINGWAARDE_2004_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF767D1D06C94B00A052BD /* WONINGWAARDE_2004_region.shp */; };
+		BEDF76B21D06C94B00A052BD /* WONINGWAARDE_2004_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF767E1D06C94B00A052BD /* WONINGWAARDE_2004_region.shx */; };
+		BEDF76B31D06C94B00A052BD /* WONINGWAARDE_2005_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF767F1D06C94B00A052BD /* WONINGWAARDE_2005_region.dbf */; };
+		BEDF76B41D06C94B00A052BD /* WONINGWAARDE_2005_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76801D06C94B00A052BD /* WONINGWAARDE_2005_region.prj */; };
+		BEDF76B51D06C94B00A052BD /* WONINGWAARDE_2005_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76811D06C94B00A052BD /* WONINGWAARDE_2005_region.shp */; };
+		BEDF76B61D06C94B00A052BD /* WONINGWAARDE_2005_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76821D06C94B00A052BD /* WONINGWAARDE_2005_region.shx */; };
+		BEDF76B71D06C94B00A052BD /* WONINGWAARDE_2006_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76831D06C94B00A052BD /* WONINGWAARDE_2006_region.dbf */; };
+		BEDF76B81D06C94B00A052BD /* WONINGWAARDE_2006_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76841D06C94B00A052BD /* WONINGWAARDE_2006_region.prj */; };
+		BEDF76B91D06C94B00A052BD /* WONINGWAARDE_2006_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76851D06C94B00A052BD /* WONINGWAARDE_2006_region.shp */; };
+		BEDF76BA1D06C94B00A052BD /* WONINGWAARDE_2006_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76861D06C94B00A052BD /* WONINGWAARDE_2006_region.shx */; };
+		BEDF76BB1D06C94B00A052BD /* WONINGWAARDE_2007_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76871D06C94B00A052BD /* WONINGWAARDE_2007_region.dbf */; };
+		BEDF76BC1D06C94B00A052BD /* WONINGWAARDE_2007_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76881D06C94B00A052BD /* WONINGWAARDE_2007_region.prj */; };
+		BEDF76BD1D06C94B00A052BD /* WONINGWAARDE_2007_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76891D06C94B00A052BD /* WONINGWAARDE_2007_region.shp */; };
+		BEDF76BE1D06C94B00A052BD /* WONINGWAARDE_2007_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF768A1D06C94B00A052BD /* WONINGWAARDE_2007_region.shx */; };
+		BEDF76BF1D06C94B00A052BD /* WONINGWAARDE_2008_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF768B1D06C94B00A052BD /* WONINGWAARDE_2008_region.dbf */; };
+		BEDF76C01D06C94B00A052BD /* WONINGWAARDE_2008_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF768C1D06C94B00A052BD /* WONINGWAARDE_2008_region.prj */; };
+		BEDF76C11D06C94B00A052BD /* WONINGWAARDE_2008_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF768D1D06C94B00A052BD /* WONINGWAARDE_2008_region.shp */; };
+		BEDF76C21D06C94B00A052BD /* WONINGWAARDE_2008_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF768E1D06C94B00A052BD /* WONINGWAARDE_2008_region.shx */; };
+		BEDF76C31D06C94B00A052BD /* WONINGWAARDE_2009_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF768F1D06C94B00A052BD /* WONINGWAARDE_2009_region.dbf */; };
+		BEDF76C41D06C94B00A052BD /* WONINGWAARDE_2009_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76901D06C94B00A052BD /* WONINGWAARDE_2009_region.prj */; };
+		BEDF76C51D06C94B00A052BD /* WONINGWAARDE_2009_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76911D06C94B00A052BD /* WONINGWAARDE_2009_region.shp */; };
+		BEDF76C61D06C94B00A052BD /* WONINGWAARDE_2009_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76921D06C94B00A052BD /* WONINGWAARDE_2009_region.shx */; };
+		BEDF76C71D06C94B00A052BD /* WONINGWAARDE_2010_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76931D06C94B00A052BD /* WONINGWAARDE_2010_region.dbf */; };
+		BEDF76C81D06C94B00A052BD /* WONINGWAARDE_2010_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76941D06C94B00A052BD /* WONINGWAARDE_2010_region.prj */; };
+		BEDF76C91D06C94B00A052BD /* WONINGWAARDE_2010_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76951D06C94B00A052BD /* WONINGWAARDE_2010_region.shp */; };
+		BEDF76CA1D06C94B00A052BD /* WONINGWAARDE_2010_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76961D06C94B00A052BD /* WONINGWAARDE_2010_region.shx */; };
+		BEDF76CB1D06C94B00A052BD /* WONINGWAARDE_2011_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76971D06C94B00A052BD /* WONINGWAARDE_2011_region.dbf */; };
+		BEDF76CC1D06C94B00A052BD /* WONINGWAARDE_2011_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76981D06C94B00A052BD /* WONINGWAARDE_2011_region.prj */; };
+		BEDF76CD1D06C94B00A052BD /* WONINGWAARDE_2011_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76991D06C94B00A052BD /* WONINGWAARDE_2011_region.shp */; };
+		BEDF76CE1D06C94B00A052BD /* WONINGWAARDE_2011_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF769A1D06C94B00A052BD /* WONINGWAARDE_2011_region.shx */; };
+		BEDF76CF1D06C94B00A052BD /* WONINGWAARDE_2012_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF769B1D06C94B00A052BD /* WONINGWAARDE_2012_region.dbf */; };
+		BEDF76D01D06C94B00A052BD /* WONINGWAARDE_2012_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF769C1D06C94B00A052BD /* WONINGWAARDE_2012_region.prj */; };
+		BEDF76D11D06C94B00A052BD /* WONINGWAARDE_2012_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF769D1D06C94B00A052BD /* WONINGWAARDE_2012_region.shp */; };
+		BEDF76D21D06C94B00A052BD /* WONINGWAARDE_2012_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF769E1D06C94B00A052BD /* WONINGWAARDE_2012_region.shx */; };
+		BEDF76D31D06C94B00A052BD /* WONINGWAARDE_2013_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF769F1D06C94B00A052BD /* WONINGWAARDE_2013_region.dbf */; };
+		BEDF76D41D06C94B00A052BD /* WONINGWAARDE_2013_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76A01D06C94B00A052BD /* WONINGWAARDE_2013_region.prj */; };
+		BEDF76D51D06C94B00A052BD /* WONINGWAARDE_2013_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76A11D06C94B00A052BD /* WONINGWAARDE_2013_region.shp */; };
+		BEDF76D61D06C94B00A052BD /* WONINGWAARDE_2013_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76A21D06C94B00A052BD /* WONINGWAARDE_2013_region.shx */; };
+		BEDF76D71D06C94B00A052BD /* WONINGWAARDE_2014_region.dbf in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76A31D06C94B00A052BD /* WONINGWAARDE_2014_region.dbf */; };
+		BEDF76D81D06C94B00A052BD /* WONINGWAARDE_2014_region.prj in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76A41D06C94B00A052BD /* WONINGWAARDE_2014_region.prj */; };
+		BEDF76D91D06C94B00A052BD /* WONINGWAARDE_2014_region.shp in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76A51D06C94B00A052BD /* WONINGWAARDE_2014_region.shp */; };
+		BEDF76DA1D06C94B00A052BD /* WONINGWAARDE_2014_region.shx in Resources */ = {isa = PBXBuildFile; fileRef = BEDF76A61D06C94B00A052BD /* WONINGWAARDE_2014_region.shx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +133,58 @@
 		37EC6E72125AA318009B360D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		37EC6E76125AA322009B360D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		8D1107310486CEB800E47090 /* TestObjCShapefile-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TestObjCShapefile-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		BEDF76731D06C94B00A052BD /* WONINGWAARDE_2002_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2002_region.dbf; sourceTree = "<group>"; };
+		BEDF76741D06C94B00A052BD /* WONINGWAARDE_2002_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2002_region.prj; sourceTree = "<group>"; };
+		BEDF76751D06C94B00A052BD /* WONINGWAARDE_2002_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2002_region.shp; sourceTree = "<group>"; };
+		BEDF76761D06C94B00A052BD /* WONINGWAARDE_2002_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2002_region.shx; sourceTree = "<group>"; };
+		BEDF76771D06C94B00A052BD /* WONINGWAARDE_2003_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2003_region.dbf; sourceTree = "<group>"; };
+		BEDF76781D06C94B00A052BD /* WONINGWAARDE_2003_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2003_region.prj; sourceTree = "<group>"; };
+		BEDF76791D06C94B00A052BD /* WONINGWAARDE_2003_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2003_region.shp; sourceTree = "<group>"; };
+		BEDF767A1D06C94B00A052BD /* WONINGWAARDE_2003_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2003_region.shx; sourceTree = "<group>"; };
+		BEDF767B1D06C94B00A052BD /* WONINGWAARDE_2004_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2004_region.dbf; sourceTree = "<group>"; };
+		BEDF767C1D06C94B00A052BD /* WONINGWAARDE_2004_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2004_region.prj; sourceTree = "<group>"; };
+		BEDF767D1D06C94B00A052BD /* WONINGWAARDE_2004_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2004_region.shp; sourceTree = "<group>"; };
+		BEDF767E1D06C94B00A052BD /* WONINGWAARDE_2004_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2004_region.shx; sourceTree = "<group>"; };
+		BEDF767F1D06C94B00A052BD /* WONINGWAARDE_2005_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2005_region.dbf; sourceTree = "<group>"; };
+		BEDF76801D06C94B00A052BD /* WONINGWAARDE_2005_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2005_region.prj; sourceTree = "<group>"; };
+		BEDF76811D06C94B00A052BD /* WONINGWAARDE_2005_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2005_region.shp; sourceTree = "<group>"; };
+		BEDF76821D06C94B00A052BD /* WONINGWAARDE_2005_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2005_region.shx; sourceTree = "<group>"; };
+		BEDF76831D06C94B00A052BD /* WONINGWAARDE_2006_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2006_region.dbf; sourceTree = "<group>"; };
+		BEDF76841D06C94B00A052BD /* WONINGWAARDE_2006_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2006_region.prj; sourceTree = "<group>"; };
+		BEDF76851D06C94B00A052BD /* WONINGWAARDE_2006_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2006_region.shp; sourceTree = "<group>"; };
+		BEDF76861D06C94B00A052BD /* WONINGWAARDE_2006_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2006_region.shx; sourceTree = "<group>"; };
+		BEDF76871D06C94B00A052BD /* WONINGWAARDE_2007_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2007_region.dbf; sourceTree = "<group>"; };
+		BEDF76881D06C94B00A052BD /* WONINGWAARDE_2007_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2007_region.prj; sourceTree = "<group>"; };
+		BEDF76891D06C94B00A052BD /* WONINGWAARDE_2007_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2007_region.shp; sourceTree = "<group>"; };
+		BEDF768A1D06C94B00A052BD /* WONINGWAARDE_2007_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2007_region.shx; sourceTree = "<group>"; };
+		BEDF768B1D06C94B00A052BD /* WONINGWAARDE_2008_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2008_region.dbf; sourceTree = "<group>"; };
+		BEDF768C1D06C94B00A052BD /* WONINGWAARDE_2008_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2008_region.prj; sourceTree = "<group>"; };
+		BEDF768D1D06C94B00A052BD /* WONINGWAARDE_2008_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2008_region.shp; sourceTree = "<group>"; };
+		BEDF768E1D06C94B00A052BD /* WONINGWAARDE_2008_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2008_region.shx; sourceTree = "<group>"; };
+		BEDF768F1D06C94B00A052BD /* WONINGWAARDE_2009_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2009_region.dbf; sourceTree = "<group>"; };
+		BEDF76901D06C94B00A052BD /* WONINGWAARDE_2009_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2009_region.prj; sourceTree = "<group>"; };
+		BEDF76911D06C94B00A052BD /* WONINGWAARDE_2009_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2009_region.shp; sourceTree = "<group>"; };
+		BEDF76921D06C94B00A052BD /* WONINGWAARDE_2009_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2009_region.shx; sourceTree = "<group>"; };
+		BEDF76931D06C94B00A052BD /* WONINGWAARDE_2010_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2010_region.dbf; sourceTree = "<group>"; };
+		BEDF76941D06C94B00A052BD /* WONINGWAARDE_2010_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2010_region.prj; sourceTree = "<group>"; };
+		BEDF76951D06C94B00A052BD /* WONINGWAARDE_2010_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2010_region.shp; sourceTree = "<group>"; };
+		BEDF76961D06C94B00A052BD /* WONINGWAARDE_2010_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2010_region.shx; sourceTree = "<group>"; };
+		BEDF76971D06C94B00A052BD /* WONINGWAARDE_2011_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2011_region.dbf; sourceTree = "<group>"; };
+		BEDF76981D06C94B00A052BD /* WONINGWAARDE_2011_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2011_region.prj; sourceTree = "<group>"; };
+		BEDF76991D06C94B00A052BD /* WONINGWAARDE_2011_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2011_region.shp; sourceTree = "<group>"; };
+		BEDF769A1D06C94B00A052BD /* WONINGWAARDE_2011_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2011_region.shx; sourceTree = "<group>"; };
+		BEDF769B1D06C94B00A052BD /* WONINGWAARDE_2012_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2012_region.dbf; sourceTree = "<group>"; };
+		BEDF769C1D06C94B00A052BD /* WONINGWAARDE_2012_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2012_region.prj; sourceTree = "<group>"; };
+		BEDF769D1D06C94B00A052BD /* WONINGWAARDE_2012_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2012_region.shp; sourceTree = "<group>"; };
+		BEDF769E1D06C94B00A052BD /* WONINGWAARDE_2012_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2012_region.shx; sourceTree = "<group>"; };
+		BEDF769F1D06C94B00A052BD /* WONINGWAARDE_2013_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2013_region.dbf; sourceTree = "<group>"; };
+		BEDF76A01D06C94B00A052BD /* WONINGWAARDE_2013_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2013_region.prj; sourceTree = "<group>"; };
+		BEDF76A11D06C94B00A052BD /* WONINGWAARDE_2013_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2013_region.shp; sourceTree = "<group>"; };
+		BEDF76A21D06C94B00A052BD /* WONINGWAARDE_2013_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2013_region.shx; sourceTree = "<group>"; };
+		BEDF76A31D06C94B00A052BD /* WONINGWAARDE_2014_region.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2014_region.dbf; sourceTree = "<group>"; };
+		BEDF76A41D06C94B00A052BD /* WONINGWAARDE_2014_region.prj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WONINGWAARDE_2014_region.prj; sourceTree = "<group>"; };
+		BEDF76A51D06C94B00A052BD /* WONINGWAARDE_2014_region.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2014_region.shp; sourceTree = "<group>"; };
+		BEDF76A61D06C94B00A052BD /* WONINGWAARDE_2014_region.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = WONINGWAARDE_2014_region.shx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +253,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				BEDF76721D06C94B00A052BD /* WONINGWAARDE */,
 				37AB235616D7CF5D00A113D0 /* Data */,
 				8D1107310486CEB800E47090 /* TestObjCShapefile-Info.plist */,
 				378160A41CC555000055AA98 /* iOS-Shapefile.storyboard */,
@@ -226,6 +331,65 @@
 			path = upper_legislature;
 			sourceTree = "<group>";
 		};
+		BEDF76721D06C94B00A052BD /* WONINGWAARDE */ = {
+			isa = PBXGroup;
+			children = (
+				BEDF76731D06C94B00A052BD /* WONINGWAARDE_2002_region.dbf */,
+				BEDF76741D06C94B00A052BD /* WONINGWAARDE_2002_region.prj */,
+				BEDF76751D06C94B00A052BD /* WONINGWAARDE_2002_region.shp */,
+				BEDF76761D06C94B00A052BD /* WONINGWAARDE_2002_region.shx */,
+				BEDF76771D06C94B00A052BD /* WONINGWAARDE_2003_region.dbf */,
+				BEDF76781D06C94B00A052BD /* WONINGWAARDE_2003_region.prj */,
+				BEDF76791D06C94B00A052BD /* WONINGWAARDE_2003_region.shp */,
+				BEDF767A1D06C94B00A052BD /* WONINGWAARDE_2003_region.shx */,
+				BEDF767B1D06C94B00A052BD /* WONINGWAARDE_2004_region.dbf */,
+				BEDF767C1D06C94B00A052BD /* WONINGWAARDE_2004_region.prj */,
+				BEDF767D1D06C94B00A052BD /* WONINGWAARDE_2004_region.shp */,
+				BEDF767E1D06C94B00A052BD /* WONINGWAARDE_2004_region.shx */,
+				BEDF767F1D06C94B00A052BD /* WONINGWAARDE_2005_region.dbf */,
+				BEDF76801D06C94B00A052BD /* WONINGWAARDE_2005_region.prj */,
+				BEDF76811D06C94B00A052BD /* WONINGWAARDE_2005_region.shp */,
+				BEDF76821D06C94B00A052BD /* WONINGWAARDE_2005_region.shx */,
+				BEDF76831D06C94B00A052BD /* WONINGWAARDE_2006_region.dbf */,
+				BEDF76841D06C94B00A052BD /* WONINGWAARDE_2006_region.prj */,
+				BEDF76851D06C94B00A052BD /* WONINGWAARDE_2006_region.shp */,
+				BEDF76861D06C94B00A052BD /* WONINGWAARDE_2006_region.shx */,
+				BEDF76871D06C94B00A052BD /* WONINGWAARDE_2007_region.dbf */,
+				BEDF76881D06C94B00A052BD /* WONINGWAARDE_2007_region.prj */,
+				BEDF76891D06C94B00A052BD /* WONINGWAARDE_2007_region.shp */,
+				BEDF768A1D06C94B00A052BD /* WONINGWAARDE_2007_region.shx */,
+				BEDF768B1D06C94B00A052BD /* WONINGWAARDE_2008_region.dbf */,
+				BEDF768C1D06C94B00A052BD /* WONINGWAARDE_2008_region.prj */,
+				BEDF768D1D06C94B00A052BD /* WONINGWAARDE_2008_region.shp */,
+				BEDF768E1D06C94B00A052BD /* WONINGWAARDE_2008_region.shx */,
+				BEDF768F1D06C94B00A052BD /* WONINGWAARDE_2009_region.dbf */,
+				BEDF76901D06C94B00A052BD /* WONINGWAARDE_2009_region.prj */,
+				BEDF76911D06C94B00A052BD /* WONINGWAARDE_2009_region.shp */,
+				BEDF76921D06C94B00A052BD /* WONINGWAARDE_2009_region.shx */,
+				BEDF76931D06C94B00A052BD /* WONINGWAARDE_2010_region.dbf */,
+				BEDF76941D06C94B00A052BD /* WONINGWAARDE_2010_region.prj */,
+				BEDF76951D06C94B00A052BD /* WONINGWAARDE_2010_region.shp */,
+				BEDF76961D06C94B00A052BD /* WONINGWAARDE_2010_region.shx */,
+				BEDF76971D06C94B00A052BD /* WONINGWAARDE_2011_region.dbf */,
+				BEDF76981D06C94B00A052BD /* WONINGWAARDE_2011_region.prj */,
+				BEDF76991D06C94B00A052BD /* WONINGWAARDE_2011_region.shp */,
+				BEDF769A1D06C94B00A052BD /* WONINGWAARDE_2011_region.shx */,
+				BEDF769B1D06C94B00A052BD /* WONINGWAARDE_2012_region.dbf */,
+				BEDF769C1D06C94B00A052BD /* WONINGWAARDE_2012_region.prj */,
+				BEDF769D1D06C94B00A052BD /* WONINGWAARDE_2012_region.shp */,
+				BEDF769E1D06C94B00A052BD /* WONINGWAARDE_2012_region.shx */,
+				BEDF769F1D06C94B00A052BD /* WONINGWAARDE_2013_region.dbf */,
+				BEDF76A01D06C94B00A052BD /* WONINGWAARDE_2013_region.prj */,
+				BEDF76A11D06C94B00A052BD /* WONINGWAARDE_2013_region.shp */,
+				BEDF76A21D06C94B00A052BD /* WONINGWAARDE_2013_region.shx */,
+				BEDF76A31D06C94B00A052BD /* WONINGWAARDE_2014_region.dbf */,
+				BEDF76A41D06C94B00A052BD /* WONINGWAARDE_2014_region.prj */,
+				BEDF76A51D06C94B00A052BD /* WONINGWAARDE_2014_region.shp */,
+				BEDF76A61D06C94B00A052BD /* WONINGWAARDE_2014_region.shx */,
+			);
+			path = WONINGWAARDE;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -295,17 +459,69 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEDF76D21D06C94B00A052BD /* WONINGWAARDE_2012_region.shx in Resources */,
+				BEDF76BD1D06C94B00A052BD /* WONINGWAARDE_2007_region.shp in Resources */,
+				BEDF76C71D06C94B00A052BD /* WONINGWAARDE_2010_region.dbf in Resources */,
+				BEDF76C11D06C94B00A052BD /* WONINGWAARDE_2008_region.shp in Resources */,
+				BEDF76CD1D06C94B00A052BD /* WONINGWAARDE_2011_region.shp in Resources */,
+				BEDF76AE1D06C94B00A052BD /* WONINGWAARDE_2003_region.shx in Resources */,
+				BEDF76BE1D06C94B00A052BD /* WONINGWAARDE_2007_region.shx in Resources */,
+				BEDF76B61D06C94B00A052BD /* WONINGWAARDE_2005_region.shx in Resources */,
 				378160A51CC555000055AA98 /* iOS-Shapefile.storyboard in Resources */,
 				37AB236B16D7CF5D00A113D0 /* tl_2010_32_county10.dbf in Resources */,
+				BEDF76DA1D06C94B00A052BD /* WONINGWAARDE_2014_region.shx in Resources */,
+				BEDF76A71D06C94B00A052BD /* WONINGWAARDE_2002_region.dbf in Resources */,
+				BEDF76D01D06C94B00A052BD /* WONINGWAARDE_2012_region.prj in Resources */,
+				BEDF76D61D06C94B00A052BD /* WONINGWAARDE_2013_region.shx in Resources */,
+				BEDF76D71D06C94B00A052BD /* WONINGWAARDE_2014_region.dbf in Resources */,
+				BEDF76CC1D06C94B00A052BD /* WONINGWAARDE_2011_region.prj in Resources */,
+				BEDF76AB1D06C94B00A052BD /* WONINGWAARDE_2003_region.dbf in Resources */,
+				BEDF76C31D06C94B00A052BD /* WONINGWAARDE_2009_region.dbf in Resources */,
+				BEDF76BF1D06C94B00A052BD /* WONINGWAARDE_2008_region.dbf in Resources */,
+				BEDF76A91D06C94B00A052BD /* WONINGWAARDE_2002_region.shp in Resources */,
+				BEDF76BB1D06C94B00A052BD /* WONINGWAARDE_2007_region.dbf in Resources */,
+				BEDF76CA1D06C94B00A052BD /* WONINGWAARDE_2010_region.shx in Resources */,
+				BEDF76BA1D06C94B00A052BD /* WONINGWAARDE_2006_region.shx in Resources */,
+				BEDF76B01D06C94B00A052BD /* WONINGWAARDE_2004_region.prj in Resources */,
+				BEDF76CF1D06C94B00A052BD /* WONINGWAARDE_2012_region.dbf in Resources */,
+				BEDF76B41D06C94B00A052BD /* WONINGWAARDE_2005_region.prj in Resources */,
+				BEDF76CB1D06C94B00A052BD /* WONINGWAARDE_2011_region.dbf in Resources */,
+				BEDF76C51D06C94B00A052BD /* WONINGWAARDE_2009_region.shp in Resources */,
+				BEDF76C61D06C94B00A052BD /* WONINGWAARDE_2009_region.shx in Resources */,
+				BEDF76B91D06C94B00A052BD /* WONINGWAARDE_2006_region.shp in Resources */,
+				BEDF76C91D06C94B00A052BD /* WONINGWAARDE_2010_region.shp in Resources */,
+				BEDF76D81D06C94B00A052BD /* WONINGWAARDE_2014_region.prj in Resources */,
+				BEDF76C81D06C94B00A052BD /* WONINGWAARDE_2010_region.prj in Resources */,
+				BEDF76B21D06C94B00A052BD /* WONINGWAARDE_2004_region.shx in Resources */,
 				37AB236C16D7CF5D00A113D0 /* tl_2010_32_county10.prj in Resources */,
+				BEDF76D41D06C94B00A052BD /* WONINGWAARDE_2013_region.prj in Resources */,
+				BEDF76A81D06C94B00A052BD /* WONINGWAARDE_2002_region.prj in Resources */,
+				BEDF76D91D06C94B00A052BD /* WONINGWAARDE_2014_region.shp in Resources */,
 				37AB236D16D7CF5D00A113D0 /* tl_2010_32_county10.shp in Resources */,
+				BEDF76AD1D06C94B00A052BD /* WONINGWAARDE_2003_region.shp in Resources */,
+				BEDF76B71D06C94B00A052BD /* WONINGWAARDE_2006_region.dbf in Resources */,
 				37AB236E16D7CF5D00A113D0 /* tl_2010_32_county10.shp.xml in Resources */,
+				BEDF76B31D06C94B00A052BD /* WONINGWAARDE_2005_region.dbf in Resources */,
 				37AB236F16D7CF5D00A113D0 /* tl_2010_32_county10.shx in Resources */,
+				BEDF76AF1D06C94B00A052BD /* WONINGWAARDE_2004_region.dbf in Resources */,
 				37AB23A116D7D48E00A113D0 /* planS01188_8pct.cpg in Resources */,
+				BEDF76BC1D06C94B00A052BD /* WONINGWAARDE_2007_region.prj in Resources */,
+				BEDF76AC1D06C94B00A052BD /* WONINGWAARDE_2003_region.prj in Resources */,
+				BEDF76C21D06C94B00A052BD /* WONINGWAARDE_2008_region.shx in Resources */,
 				37AB23A216D7D48E00A113D0 /* planS01188_8pct.dbf in Resources */,
+				BEDF76D51D06C94B00A052BD /* WONINGWAARDE_2013_region.shp in Resources */,
 				37AB23A316D7D48E00A113D0 /* planS01188_8pct.prj in Resources */,
+				BEDF76D11D06C94B00A052BD /* WONINGWAARDE_2012_region.shp in Resources */,
 				37AB23A416D7D48E00A113D0 /* planS01188_8pct.shp in Resources */,
 				37AB23A516D7D48E00A113D0 /* planS01188_8pct.shx in Resources */,
+				BEDF76AA1D06C94B00A052BD /* WONINGWAARDE_2002_region.shx in Resources */,
+				BEDF76C01D06C94B00A052BD /* WONINGWAARDE_2008_region.prj in Resources */,
+				BEDF76B81D06C94B00A052BD /* WONINGWAARDE_2006_region.prj in Resources */,
+				BEDF76C41D06C94B00A052BD /* WONINGWAARDE_2009_region.prj in Resources */,
+				BEDF76D31D06C94B00A052BD /* WONINGWAARDE_2013_region.dbf in Resources */,
+				BEDF76CE1D06C94B00A052BD /* WONINGWAARDE_2011_region.shx in Resources */,
+				BEDF76B51D06C94B00A052BD /* WONINGWAARDE_2005_region.shp in Resources */,
+				BEDF76B11D06C94B00A052BD /* WONINGWAARDE_2004_region.shp in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

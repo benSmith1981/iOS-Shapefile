@@ -37,7 +37,7 @@ static MKCoordinateSpan kStandardZoomSpan = {2.f, 2.f};
 
 #define STATE_TX 1
 #define STATE_NV 2
-
+#define AMSTERDAM 3
 #define USE_STATE STATE_TX
 
 
@@ -49,13 +49,17 @@ static MKCoordinateSpan kStandardZoomSpan = {2.f, 2.f};
     // The Texas state geographer uses a special projection
     #define EPSG3081 @"+proj=lcc +lat_1=27.41666666666667 +lat_2=34.91666666666666 +lat_0=31.16666666666667 +lon_0=-100 +x_0=1000000 +y_0=1000000 +ellps=GRS80 +datum=NAD83 +units=m +no_defs"
     #define SRC_PROJECTION EPSG3081
-
 #elif USE_STATE == STATE_NV
 
     #define SHP_FILENAME @"tl_2010_32_county10"
     #define MAP_REGION MKCoordinateRegionMake((CLLocationCoordinate2D){38.395164f,-116.985512f}, (MKCoordinateSpan){7.f, 7.f})
     #define SRC_PROJECTION nil // Use 'nil' to decline reprojection, if your source is a WSG84 or NAD83 (USGS Tiger) projection
+#elif USE_STATE == AMSTERDAM
+    #define SHP_FILENAME @"WONINGWAARDE_2002_region"
 
+    #define MAP_REGION MKCoordinateRegionMake((CLLocationCoordinate2D){52.3702f, 4.8952f}, (MKCoordinateSpan){0.03, 0.03})
+
+    #define SRC_PROJECTION nil // Use 'nil' to decline reprojection, if your source is a WSG84 or NAD83 (USGS Tiger) projection
 #endif
 
 #pragma mark -
